@@ -1,0 +1,207 @@
+{
+  "v1": {
+    "T01": {
+      "decisions": [
+        {
+          "text": "Keep the budget at 15,000 rupees",
+          "source_lines": [
+            4
+          ]
+        }
+      ],
+      "action_items": [
+        {
+          "task": "Send draft poster",
+          "owner": "Riya",
+          "deadline": "2026-10-16",
+          "source_lines": [
+            1
+          ],
+          "quote": "I'll send the draft poster by Friday."
+        },
+        {
+          "task": "Check with the office about seminar hall booking",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Someone should check with the office."
+        }
+      ]
+    },
+    "T06": {
+      "decisions": [],
+      "action_items": [
+        {
+          "task": "Send signup form",
+          "owner": "Aman",
+          "deadline": "2026-10-15",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Correction, I will send the signup form instead, by Thursday."
+        }
+      ]
+    }
+  },
+  "v2": {
+    "T01": {
+      "decisions": [
+        {
+          "item": "Keep the budget at 15,000 rupees",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            4
+          ],
+          "quote": "Keep the budget at 15,000 rupees."
+        }
+      ],
+      "action_items": [
+        {
+          "item": "Send draft poster",
+          "owner": "Riya",
+          "deadline": "2026-10-16",
+          "source_lines": [
+            1
+          ],
+          "quote": "I'll send the draft poster by Friday."
+        },
+        {
+          "item": "Check seminar hall booking with the office",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Someone should check with the office."
+        }
+      ]
+    },
+    "T06": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Send signup form",
+          "owner": "Aman",
+          "deadline": "2026-10-15",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Correction, I will send the signup form instead, by Thursday."
+        }
+      ]
+    }
+  },
+  "v3": {
+    "T01": {
+      "extractor": {
+        "decisions": [
+          {
+            "item": "Set the budget at 15,000 rupees",
+            "owner": "not stated",
+            "deadline": "not stated",
+            "source_lines": [
+              4
+            ],
+            "quote": "Keep the budget at 15,000 rupees."
+          }
+        ],
+        "action_items": [
+          {
+            "item": "Send draft poster",
+            "owner": "Riya",
+            "deadline": "2026-10-16",
+            "source_lines": [
+              1
+            ],
+            "quote": "I'll send the draft poster by Friday."
+          },
+          {
+            "item": "Check seminar hall booking with the office",
+            "owner": "not stated",
+            "deadline": "not stated",
+            "source_lines": [
+              2,
+              3
+            ],
+            "quote": "Someone should check with the office."
+          }
+        ]
+      },
+      "verifier": {
+        "decisions": [
+          {
+            "item": "Set the budget at 15,000 rupees",
+            "owner": "not stated",
+            "deadline": "not stated",
+            "source_lines": [
+              4
+            ],
+            "quote": "Keep the budget at 15,000 rupees."
+          }
+        ],
+        "action_items": [
+          {
+            "item": "Send draft poster",
+            "owner": "Riya",
+            "deadline": "2026-10-16",
+            "source_lines": [
+              1
+            ],
+            "quote": "I'll send the draft poster by Friday."
+          },
+          {
+            "item": "Check seminar hall booking with the office",
+            "owner": "not stated",
+            "deadline": "not stated",
+            "source_lines": [
+              2,
+              3
+            ],
+            "quote": "Someone should check with the office."
+          }
+        ],
+        "flags": []
+      }
+    },
+    "T06": {
+      "extractor": {
+        "decisions": [],
+        "action_items": [
+          {
+            "item": "Send signup form",
+            "owner": "Aman",
+            "deadline": "2026-10-15",
+            "source_lines": [
+              2,
+              3
+            ],
+            "quote": "Correction, I will send the signup form instead, by Thursday."
+          }
+        ]
+      },
+      "verifier": {
+        "decisions": [],
+        "action_items": [
+          {
+            "item": "Send signup form",
+            "owner": "Aman",
+            "deadline": "2026-10-15",
+            "source_lines": [
+              2,
+              3
+            ],
+            "quote": "Correction, I will send the signup form instead, by Thursday."
+          }
+        ],
+        "flags": []
+      }
+    }
+  }
+}

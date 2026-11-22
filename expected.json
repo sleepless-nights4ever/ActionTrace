@@ -1,0 +1,245 @@
+[
+  {
+    "id": "T01",
+    "expected": {
+      "decisions": [
+        {
+          "item": "Keep the budget at 15,000 rupees",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            4
+          ],
+          "quote": "Keep the budget at 15,000 rupees."
+        }
+      ],
+      "action_items": [
+        {
+          "item": "Send draft poster",
+          "owner": "Riya",
+          "deadline": "2026-10-16",
+          "source_lines": [
+            1
+          ],
+          "quote": "I'll send the draft poster by Friday."
+        },
+        {
+          "item": "Check seminar hall booking with the office",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Someone should check with the office."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T02",
+    "expected": {
+      "decisions": [
+        {
+          "item": "Use Lab 2",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            1
+          ],
+          "quote": "We agreed to use Lab 2."
+        }
+      ],
+      "action_items": [
+        {
+          "item": "Email room details",
+          "owner": "Aman",
+          "deadline": "2026-10-13",
+          "source_lines": [
+            2
+          ],
+          "quote": "I will email the room details tomorrow."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T03",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Upload slides",
+          "owner": "Karan",
+          "deadline": "2026-10-20",
+          "source_lines": [
+            1,
+            2
+          ],
+          "quote": "Karan, please upload the slides by 2026-10-20."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T04",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Print badges",
+          "owner": "Riya",
+          "deadline": "2026-10-14",
+          "source_lines": [
+            1
+          ],
+          "quote": "I will print the badges by Wednesday."
+        },
+        {
+          "item": "Collect lanyards",
+          "owner": "Karan",
+          "deadline": "2026-10-15",
+          "source_lines": [
+            2
+          ],
+          "quote": "I will collect the lanyards by Thursday."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T05",
+    "expected": {
+      "decisions": [
+        {
+          "item": "Approve the logo",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            1
+          ],
+          "quote": "We approved the logo."
+        },
+        {
+          "item": "Make registration free",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            2
+          ],
+          "quote": "We agreed that registration will be free."
+        }
+      ],
+      "action_items": [],
+      "flags": []
+    }
+  },
+  {
+    "id": "T06",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Send signup form",
+          "owner": "Aman",
+          "deadline": "2026-10-15",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "Correction, I will send the signup form instead, by Thursday."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T07",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Print agenda",
+          "owner": "not stated",
+          "deadline": "not stated",
+          "source_lines": [
+            1
+          ],
+          "quote": "Please have Dev print the agenda when possible."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T08",
+    "expected": {
+      "decisions": [],
+      "action_items": [],
+      "flags": []
+    }
+  },
+  {
+    "id": "T09",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Send lab checklist",
+          "owner": "Karan",
+          "deadline": "2026-10-13",
+          "source_lines": [
+            2
+          ],
+          "quote": "I will send the lab checklist tomorrow."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T10",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Upload photos",
+          "owner": "Aman",
+          "deadline": "not stated",
+          "source_lines": [
+            2
+          ],
+          "quote": "I will upload the photos soon."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T11",
+    "expected": {
+      "decisions": [],
+      "action_items": [
+        {
+          "item": "Prepare draft",
+          "owner": "Riya",
+          "deadline": "not stated",
+          "source_lines": [
+            2,
+            3
+          ],
+          "quote": "I will prepare the draft."
+        }
+      ],
+      "flags": []
+    }
+  },
+  {
+    "id": "T12",
+    "expected": null
+  }
+]

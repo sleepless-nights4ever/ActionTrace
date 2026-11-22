@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item": "Set the budget at 15,000 rupees",
+      "owner": "not stated",
+      "deadline": "not stated",
+      "source_lines": [
+        4
+      ],
+      "quote": "Keep the budget at 15,000 rupees."
+    }
+  ],
+  "action_items": [
+    {
+      "item": "Send draft poster",
+      "owner": "Riya",
+      "deadline": "2026-10-16",
+      "source_lines": [
+        1
+      ],
+      "quote": "I'll send the draft poster by Friday."
+    },
+    {
+      "item": "Check seminar hall booking with the office",
+      "owner": "not stated",
+      "deadline": "not stated",
+      "source_lines": [
+        2,
+        3
+      ],
+      "quote": "Someone should check with the office."
+    }
+  ],
+  "flags": []
+}
